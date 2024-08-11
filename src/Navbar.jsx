@@ -92,7 +92,7 @@ const Navbar = () => {
       <NavLink to="sousa">СОУСА</NavLink>
         </SwiperSlide>
         {/*  */}
-        <SwiperSlide className=' mx-4'>
+        <SwiperSlide className=''>
 
 <NavLink className={' flex justify-center items-center gap-2'} to="xold"><span>ХОЛОДНЫЕ</span> <span>НАПИТКИ</span> </NavLink>
   </SwiperSlide>
