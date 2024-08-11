@@ -72,4 +72,12 @@ body {
 
 
   
-
+#img{
+  height: 190px;
+}
+#text{
+  font-size: 14px;
+}
+#li{
+  padding: 10px;
+}

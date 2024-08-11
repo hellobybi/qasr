@@ -21,7 +21,7 @@ const Navbar = () => {
   return (
     <div className='mt-14 w-full mx-auto max-w-[1200px]'>
     <Swiper
-    slidesPerView={4.5}
+    slidesPerView={5}
         scrollbar={{
           hide: true,
         }}
@@ -92,7 +92,7 @@ const Navbar = () => {
       <NavLink to="sousa">СОУСА</NavLink>
         </SwiperSlide>
         {/*  */}
-        <SwiperSlide className=''>
+        <SwiperSlide className=' mx-4'>
 
 <NavLink className={' flex justify-center items-center gap-2'} to="xold"><span>ХОЛОДНЫЕ</span> <span>НАПИТКИ</span> </NavLink>
   </SwiperSlide>
