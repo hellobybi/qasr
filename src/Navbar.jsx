@@ -96,7 +96,7 @@ const Navbar = () => {
 
 <NavLink className={' flex justify-center items-center gap-2'} to="xold"><span>ХОЛОДНЫЕ</span> <span>НАПИТКИ</span> </NavLink>
   </SwiperSlide>
-  <SwiperSlide>
+  <SwiperSlide className='pr-8'>
 
 <NavLink to="bar">БАР</NavLink>
   </SwiperSlide>
