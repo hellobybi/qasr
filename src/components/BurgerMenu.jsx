@@ -25,7 +25,7 @@ const BurgerMenu = () => {
         to="/somsa"
         >
           <span className=" font-semibold text-[14px]">
-          СОМСА 6шт
+          СОМСА 3шт
           </span>
           <GoChevronRight className=" font-bold text-[33px] text-white"/>
         </Link>
