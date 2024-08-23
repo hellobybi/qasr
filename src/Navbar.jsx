@@ -54,7 +54,7 @@ const Navbar = () => {
         </SwiperSlide>
         <SwiperSlide className=''>
 
-      <NavLink to="somsa">СОМСА 6 ШТ</NavLink>
+      <NavLink to="somsa">СОМСА 3 ШТ</NavLink>
         </SwiperSlide>
         {/*  */}
         <SwiperSlide className='mx-5'>
